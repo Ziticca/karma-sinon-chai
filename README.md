@@ -78,6 +78,12 @@ describe 'karma tests with sinon', ->
 
 Changelog
 ----------------
+### v1.3.2
+  * Update dependencies
+      * Chai: '^3.5.0 => ^4.0.0'
+      * Sinon: '^2.1.0 => ^2.3.5'
+      * Sinon-Chai: '^2.9.0 => ^2.11.0'
+
 ### v1.1.0
   * Fixed broken Sinon dependency
   * Updated depenencies
